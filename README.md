@@ -1,1 +1,1 @@
-# Command Generator HW
+# Command Generator HW - Vivado HLS source code
